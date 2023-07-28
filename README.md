@@ -1,3 +1,3 @@
 My first readme
-update
+Update
 This is my second readme
